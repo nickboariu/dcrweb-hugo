@@ -1,35 +1,25 @@
 -
   url: "https://www.coinpayments.net/"
-  tags:
-    - "payment-processor"
   logo_src: "coinpayments.jpg"
   logo_srcset: "/images/coinpayments-p-500.jpeg 500w, /images/coinpayments.jpg 608w"
   name: Coinpayments
 -
   url: "https://globee.com/"
-  tags:
-    - "payment-processor"
   logo_src: "Globee.jpg"
   logo_srcset: "/images/Globee-p-500.jpeg 500w, /images/Globee.jpg 608w"
   name: Globee
 -
   url: "https://wirexapp.com/"
-  tags:
-    - "payment-processor"
   logo_src: "Wirex.jpg"
   logo_srcset: "/images/Wirex-p-500.jpeg 500w, /images/Wirex.jpg 608w"
   name: Wirex
 -
   url: "https://coingate.com/"
-  tags:
-    - "payment-processor"
   logo_src: "coingate.jpg"
   logo_srcset: "/images/coingate-p-500.jpeg 500w, /images/coingate.jpg 608w"
   name: Coingate
 -
   url: "https://www.livingroomofsatoshi.com/"
-  tags:
-    - "payment-processor"
   logo_src: "livingroomofsatoshi.jpg"
   logo_srcset: "/images/livingroomofsatoshi-p-500.jpeg 500w, /images/livingroomofsatoshi.jpg 608w"
   name: Livingroomofsatoshi
